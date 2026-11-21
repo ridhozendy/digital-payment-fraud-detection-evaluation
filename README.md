@@ -20,6 +20,6 @@ Repositori ini berisi kode dan laporan praktikum **Data Mining** yang berfokus p
 | **Decision Tree (Default)** | 0.767 | 0.059 | 0.400 | 0.103 |
 
 ## 👤 Identitas Penulis
-* **Nama:** Ridho Dwi Putra Zendy[cite: 1]
-* **NIM:** 24343106[cite: 1]
-* **Program Studi:** Informatika — Universitas Negeri Padang[cite: 1]
+* **Nama:** Ridho Dwi Putra Zendy
+* **NIM:** 24343106
+* **Program Studi:** Informatika — Universitas Negeri Padang
